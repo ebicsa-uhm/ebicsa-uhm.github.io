@@ -1,5 +1,7 @@
 # Even Better ICS Advising (EBICSA)
 
+> **Project status:** Milestone 1 in progress (due Nov 19, 2026). Pages shown below are mockups subject to change!
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -29,52 +31,52 @@ EBICSA is planned to use the following technologies:
 * [Vercel](https://vercel.com/) for deployment.
 * A large language model API ([Gemini](https://ai.google.dev/) or [Groq](https://groq.com/)) to power the chat assistant
 
-## Deployment [WIP]
+## Deployment
 
 <!-- Replace with the live link once the app is deployed for Milestone 1. -->
 The deployed application will be available on Vercel as part of Milestone 1.
 
-## User Guide [WIP]
+## User Guide
 
 This section shows the pages planned for EBICSA. The images below are mockups and will be replaced with screenshots of the running application as development progresses.
 
-### Landing Page [WIP]
+### Landing Page
 
 The landing page is presented to users when they visit the top-level URL to the site. It explains what EBICSA does and provides a place to sign in. 
 
 ![](images/landing-page.jpg)
 
-### Sign In and Sign Up [WIP]
+### Sign In and Sign Up
 
 Returning students sign in with an existing account. New students can register through the Sign Up page.
 
 ![](images/signin-page.jpg)
 
-### Chat Assistant [WIP]
+### Chat Assistant
 
 The chat assistant lets students ask questions about ICS courses, prerequisites, and degree requirements in plain language.
 
 ![](images/chat-page.jpg)
 
-### Schedule Builder [WIP]
+### Schedule Builder
 
 The schedule builder asks for a target number of credits, a preference for in-person or online classes, and available free times. It then generates possible schedules that fit those constraints.
 
 ![](images/schedule-builder-page.jpg)
 
-### Course Browser [WIP]
+### Course Browser
 
 The course browser lets students explore ICS courses and see how each one fits into degree requirements.
 
 ![](images/course-browser-page.jpg)
 
-### My Schedules [WIP]
+### My Schedules
 
 Signed-in students can save the schedules they like and compare them later.
 
 ![](images/my-schedules-page.jpg)
 
-## Developer Guide [WIP]
+## Developer Guide
 
 <!-- Fill in once the application repo has code. -->
 Installation and development instructions will be added once the application code is in place. The source code is in the [EBICSA GitHub organization](https://github.com/ebicsa-uhm).
