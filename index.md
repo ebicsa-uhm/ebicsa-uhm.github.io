@@ -103,8 +103,8 @@ EBICSA is designed, implemented, and maintained by:
 
 <!-- Replace with real names, and link each to their GitHub profile or portfolio. -->
 * [Chicco](https://github.com/chicco-m)
-* [Teammate 2](https://github.com/rodc808)
-* [Teammate 3](https://github.com/rockymacasio)
+* [Rodemar](https://github.com/rodc808)
+* [Rocky](https://github.com/rockymacasio)
 
 <!-- Replace the # with the link to your Team Contract (required for Milestone 1). -->
 Read our [Team Contract](#).
