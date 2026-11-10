@@ -44,37 +44,37 @@ This section shows the pages planned for EBICSA. The images below are mockups an
 
 The landing page is presented to users when they visit the top-level URL to the site. It explains what EBICSA does and provides a place to sign in. 
 
-![](images/landing-page.jpg)
+![](images/landing-page.png)
 
 ### Sign In and Sign Up
 
 Returning students sign in with an existing account. New students can register through the Sign Up page.
 
-![](images/signin-page.jpg)
+![](images/signin-page.png)
 
 ### Chat Assistant
 
 The chat assistant lets students ask questions about ICS courses, prerequisites, and degree requirements in plain language.
 
-![](images/chat-page.jpg)
+![](images/chat-page.png)
 
 ### Schedule Builder
 
 The schedule builder asks for a target number of credits, a preference for in-person or online classes, and available free times. It then generates possible schedules that fit those constraints.
 
-![](images/schedule-builder-page.jpg)
+![](images/schedule-builder-page.png)
 
 ### Course Browser
 
 The course browser lets students explore ICS courses and see how each one fits into degree requirements.
 
-![](images/course-browser-page.jpg)
+![](images/course-browser-page.png)
 
 ### My Schedules
 
 Signed-in students can save the schedules they like and compare them later.
 
-![](images/my-schedules-page.jpg)
+![](images/my-schedules-page.png)
 
 ## Developer Guide
 
@@ -96,17 +96,14 @@ The development process for EBICSA follows [Issue Driven Project Management](htt
 
 The goal of Milestone 1 is to deploy the application with a landing page and mockups of the other pages in the system.
 
-<!-- Replace the # with the link to our M1 project board. -->
 Milestone 1 is managed using the [EBICSA GitHub Project Board M1](https://github.com/orgs/ebicsa-uhm/projects/2).
 
 ## Team
 
 EBICSA is designed, implemented, and maintained by:
 
-<!-- Replace with real names, and link each to their GitHub profile or portfolio. -->
 * [Chicco](https://github.com/chicco-m)
 * [Rodemar](https://github.com/rodc808)
 * [Rocky](https://github.com/rockymacasio)
 
-<!-- Replace the # with the link to your Team Contract (required for Milestone 1). -->
 Read our [Team Contract](https://docs.google.com/document/d/1bH0cZWCzZ5PyjGmNv91xsEbVApZyOvctTOzupn-9Bns/edit?usp=sharing).
