@@ -97,7 +97,7 @@ The development process for EBICSA follows [Issue Driven Project Management](htt
 The goal of Milestone 1 is to deploy the application with a landing page and mockups of the other pages in the system.
 
 <!-- Replace the # with the link to our M1 project board. -->
-Milestone 1 is managed using the [EBICSA GitHub Project Board M1](#).
+Milestone 1 is managed using the [EBICSA GitHub Project Board M1](https://github.com/orgs/ebicsa-uhm/projects/2).
 
 ## Team
 
@@ -109,4 +109,4 @@ EBICSA is designed, implemented, and maintained by:
 * [Rocky](https://github.com/rockymacasio)
 
 <!-- Replace the # with the link to your Team Contract (required for Milestone 1). -->
-Read our [Team Contract](#).
+Read our [Team Contract](https://docs.google.com/document/d/1bH0cZWCzZ5PyjGmNv91xsEbVApZyOvctTOzupn-9Bns/edit?usp=sharing).
