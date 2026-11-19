@@ -38,7 +38,7 @@ The deployed application will be available on [Vercel as part of Milestone 1]([u
 
 ## User Guide
 
-This section shows the pages planned for EBICSA. The images below are mockups and will be replaced with screenshots of the running application as development progresses.
+This section shows the pages planned for EBICSA. The images below are screenshots of the running application as development progresses.
 
 ### Landing Page
 
