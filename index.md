@@ -1,6 +1,6 @@
 # Even Better ICS Advising (EBICSA)
 
-> **Project status:** Milestone 1 in progress (due Nov 19, 2026). Pages shown below are mockups subject to change!
+> **Project status:** Milestone 2 in progress (due Dec 1, 2026). Links shown below are subject to change!
 
 ## Table of contents
 
