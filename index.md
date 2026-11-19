@@ -44,25 +44,23 @@ This section shows the pages planned for EBICSA. The images below are mockups an
 
 The landing page is presented to users when they visit the top-level URL to the site. It explains what EBICSA does and provides a place to sign in. 
 
-![](images/landing-page.png)
+![](images/landing.png)
+![](images/landing2.png)
+
 
 ### Sign In and Sign Up
 
 Returning students sign in with an existing account. New students can register through the Sign Up page.
 
-![](images/signin-page.png)
+![](images/signin.png)
+![](images/signup.png)
 
 ### Chat Assistant
 
 The chat assistant lets students ask questions about ICS courses, prerequisites, and degree requirements in plain language.
 
-![](images/chat-page.png)
-
-### Schedule Builder
-
-The schedule builder asks for a target number of credits, a preference for in-person or online classes, and available free times. It then generates possible schedules that fit those constraints.
-
-![](images/schedule-builder-page.png)
+![](images/chatwidget.png)
+![](images/chatwidget2.png)
 
 ### Course Browser
 
@@ -70,11 +68,18 @@ The course browser lets students explore ICS courses and see how each one fits i
 
 ![](images/course-browser-page.png)
 
+### Schedule Builder
+
+The schedule builder asks for a target number of credits, a preference for in-person or online classes, and available free times. It then generates possible schedules that fit those constraints.
+
+![](images/schedule.png)
+
+
 ### My Schedules
 
 Signed-in students can save the schedules they like and compare them later.
 
-![](images/my-schedules-page.png)
+![](images/schedule.png)
 
 ## Developer Guide
 
@@ -98,6 +103,12 @@ The goal of Milestone 1 is to deploy the application with a landing page and moc
 
 Milestone 1 is managed using the [EBICSA GitHub Project Board M1](https://github.com/orgs/ebicsa-uhm/projects/2).
 
+### Milestone 2: Application Development, Database, and Testing
+
+The goal of Milestone 2 is to build on the initial mockups by making EBICSA’s core advising features work together. This milestone includes database integration, functionality between different parts of the application, and additional quality of life features.
+
+Milestone 2 is managed using the [EBICSA Github Project Board M2](https://github.com/orgs/ebicsa-uhm/projects/5)
+
 ## Team
 
 EBICSA is designed, implemented, and maintained by:
@@ -105,5 +116,6 @@ EBICSA is designed, implemented, and maintained by:
 * [Chicco](https://github.com/chicco-m)
 * [Rodemar](https://github.com/rodc808)
 * [Rocky](https://github.com/rockymacasio)
+* [Jonathan](https://github.com/chungjon-netz)
 
 Read our [Team Contract](https://docs.google.com/document/d/1bH0cZWCzZ5PyjGmNv91xsEbVApZyOvctTOzupn-9Bns/edit?usp=sharing).
