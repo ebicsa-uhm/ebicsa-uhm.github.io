@@ -34,7 +34,7 @@ EBICSA is planned to use the following technologies:
 ## Deployment
 
 <!-- Replace with the live link once the app is deployed for Milestone 1. -->
-The deployed application will be available on [Vercel as part of Milestone 1]([url](https://ebicsa-d4x9w37ph-ebicsa.vercel.app/)).
+The deployed application will be available on [Vercel as part of Milestone 1]([https://ebicsa-d4x9w37ph-ebicsa.vercel.app/]).
 
 ## User Guide
 
